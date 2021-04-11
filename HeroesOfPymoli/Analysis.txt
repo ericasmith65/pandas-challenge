@@ -1,0 +1,7 @@
+*Study partner: Bitty Fennie*
+
+Written description of three observable trends based on the data.
+1. In-game purchases are far more likely to be made by men.
+2. Players in the 20 to 24 age group spend 2.7 times more on in-game purchases than any other age group. 
+3. Players in the 34 to 39 age group tend to spend more in single transaction than any other age group.
+4. Three out of five of the most popular items are also the most profitable.
